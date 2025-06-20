@@ -119,11 +119,14 @@ Ensure Supabase tables and schema are set up.
 
 ---
 
-## 📹 Video Demo
+## 📫 Postman Collection
 
-\[Insert video link here once ready]
+You can access and test all API endpoints using this Postman collection:
 
----
+🔗 [DevifyX Blog API – Postman Collection](https://patel-5601208.postman.co/workspace/Patel's-Workspace~c29e82be-bc67-4d7d-8f7d-9aad7a2c7d13/collection/45959969-3bc86d54-442e-441d-836b-41f8963d203a?action=share&source=copy-link&creator=45959969)
+
+> Make sure to use a valid JWT token for protected routes.
+
 
 ## 📝 Assumptions / Additional Features
 
